@@ -71,5 +71,8 @@ html_favicon = '_static/images/favicon.png'
 html_css_files = [
     'css/index.css',
 ]
+html_js_files = [
+    'js/custom.js',
+]
 
 intersphinx_mapping = {'python': ('https://docs.python.org/3', None)}
